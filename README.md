@@ -2,7 +2,7 @@
 
 ### preview
 
-![预览图](./preview.png)
+![预览图](./preview.jpg)
 
 ### 用法说明
 
