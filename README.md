@@ -1,5 +1,9 @@
 # xSlider for jQuery 轮播图插件
 
+### preview
+
+![预览图](./preview.png)
+
 ### 用法说明
 
 - html
